@@ -1,3 +1,4 @@
+
 <p align="center"><img src="art/logo.svg" alt="Logo Laravel Sanctum"></p>
 <p align="center">
   <a href="https://github.com/koole/react-sanctum/actions/workflows/tests.yaml"><img src="https://github.com/koole/react-sanctum/actions/workflows/tests.yaml/badge.svg" alt="Build Status"></a>
